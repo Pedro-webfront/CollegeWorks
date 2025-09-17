@@ -1,0 +1,5 @@
+INSERT INTO `Correntista`(`Codigocorrentista`, `Nome`) VALUES (1,'Pedro');
+INSERT INTO `Correntista`(`Codigocorrentista`, `Nome`) VALUES (2,'Henrique');
+INSERT INTO `Correntista`(`Codigocorrentista`, `Nome`) VALUES (3,'Aires');
+
+INSERT INTO `Correntista`(`Codigocorrentista`, `Nome`) VALUES ('[value-1]','[value-2]')
